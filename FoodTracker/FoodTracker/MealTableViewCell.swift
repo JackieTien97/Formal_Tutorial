@@ -2,8 +2,8 @@
 //  MealTableViewCell.swift
 //  FoodTracker
 //
-//  Created by Slow_Time on 2017/8/4.
-//  Copyright © 2017年 Apple Inc. All rights reserved.
+//  Created by Jane Appleseed on 11/15/16.
+//  Copyright © 2016 Apple Inc. All rights reserved.
 //
 
 import UIKit
